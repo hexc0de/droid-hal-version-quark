@@ -8,7 +8,7 @@
 %define device_pretty Droid Turbo
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
-$device have_kernel_modules 1
+%define have_kernel_modules 1
 %define have_vibrator 1
 %define have_led 1
 
