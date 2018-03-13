@@ -9,7 +9,7 @@
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_kernel_modules 1
-%define have_vibrator 1
+%define use_native_vibrator 1
 %define have_camera 1
 %define have_mm_omx 1
 %define have_led 1
